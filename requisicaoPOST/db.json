@@ -1,0 +1,34 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Olá, mundo!",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam minus inventore voluptatem, eum repellat sed officiis aliquam",
+      "author": "Isaac"
+    },
+    {
+      "id": 2,
+      "title": "Requisições POST com Javascript",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam minus inventore voluptatem, eum repellat sed officiis aliquam",
+      "author": "Isaac"
+    },
+    {
+      "title": "Aprendendo Js",
+      "author": "Caike",
+      "content": "Lorem ipsullm",
+      "id": 3
+    },
+    {
+      "title": "One",
+      "author": "OneBitCode",
+      "content": "aprendendo js",
+      "id": 4
+    },
+    {
+      "title": "O pequeno príncipe",
+      "author": "Não sei",
+      "content": "O pequeno príncipe é um cara legal",
+      "id": 5
+    }
+  ]
+}
